@@ -3,4 +3,4 @@ Differently put, we would like to expose the mines on start-up by printing flags
 
 Clue:
 
-- The function that put the mines on the board import a function to select random places.
+- The function that puts the mines on the board import a function to select random places.
